@@ -1,6 +1,6 @@
 ---
 
-#  Wolfenstein3D Renderer Clone em Python
+#  Wolfenstein3D Render Engine Recreation
 
 Este projeto é uma recriação do estilo clássico de renderização 3D usado em *Wolfenstein 3D*, totalmente feito com **Python** e **Pygame**. Ele utiliza **Raycasting** para simular uma perspectiva 3D a partir de um mapa 2D, com renderização de paredes, céu, chão e objetos (*sprites*), oferecendo uma base simples para entender como jogos 3D antigos funcionavam internamente.
 
