@@ -1,5 +1,3 @@
-Perfeito! Com base nos arquivos e estruturas que você forneceu, aqui está um exemplo de um **README.md** para o seu projeto no GitHub, em português e com uma explicação clara sobre como rodar, configurar e entender os principais sistemas como *Raycasting*, mapa e objetos:
-
 ---
 
 #  Wolfenstein3D Renderer Clone em Python
